@@ -1,0 +1,25 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw
+    tables:
+      - name: telegram_messages
+        description: "Raw messages scraped from Telegram channels"
+        columns:
+          - name: message_id
+            description: "Unique message identifier"
+          - name: channel_name
+            description: "Name of the Telegram channel"
+          - name: message_date
+            description: "Timestamp of the message"
+          - name: message_text
+            description: "Full text content of the message"
+          - name: has_media
+            description: "Whether message contains media"
+          - name: image_path
+            description: "Local path to downloaded image"
+          - name: views
+            description: "Number of views"
+          - name: forwards
+            description: "Number of forwards"
