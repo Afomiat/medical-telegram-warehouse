@@ -1,0 +1,733 @@
+message_id,channel_name,image_path,detected_objects,image_category,object_count
+10,CheMed123,data\raw\images\CheMed123\10.jpg,none,other,0
+11,CheMed123,data\raw\images\CheMed123\11.jpg,clock:0.43,product_display,1
+13,CheMed123,data\raw\images\CheMed123\13.jpg,"hot dog:0.50, donut:0.40, hot dog:0.31, donut:0.30, hot dog:0.26, hot dog:0.25",other,6
+14,CheMed123,data\raw\images\CheMed123\14.jpg,none,other,0
+15,CheMed123,data\raw\images\CheMed123\15.jpg,none,other,0
+17,CheMed123,data\raw\images\CheMed123\17.jpg,"bottle:0.53, bottle:0.49, bottle:0.43, bottle:0.39, bottle:0.38, bottle:0.38, bottle:0.37, bottle:0.33, bottle:0.28, bottle:0.28, bottle:0.27",product_display,11
+18,CheMed123,data\raw\images\CheMed123\18.jpg,none,other,0
+19,CheMed123,data\raw\images\CheMed123\19.jpg,"person:0.94, person:0.93, dining table:0.36, dining table:0.32",lifestyle,4
+2,CheMed123,data\raw\images\CheMed123\2.jpg,bottle:0.39,product_display,1
+20,CheMed123,data\raw\images\CheMed123\20.jpg,"person:0.94, person:0.93, dining table:0.36, dining table:0.32",lifestyle,4
+21,CheMed123,data\raw\images\CheMed123\21.jpg,bird:0.25,other,1
+22,CheMed123,data\raw\images\CheMed123\22.jpg,stop sign:0.28,other,1
+23,CheMed123,data\raw\images\CheMed123\23.jpg,cell phone:0.61,other,1
+25,CheMed123,data\raw\images\CheMed123\25.jpg,"cell phone:0.86, person:0.63",lifestyle,2
+26,CheMed123,data\raw\images\CheMed123\26.jpg,"person:0.83, cup:0.43, book:0.32, book:0.31",promotional,4
+27,CheMed123,data\raw\images\CheMed123\27.jpg,none,other,0
+29,CheMed123,data\raw\images\CheMed123\29.jpg,"person:0.62, surfboard:0.59, person:0.53, person:0.28",lifestyle,4
+3,CheMed123,data\raw\images\CheMed123\3.jpg,none,other,0
+30,CheMed123,data\raw\images\CheMed123\30.jpg,person:0.41,lifestyle,1
+31,CheMed123,data\raw\images\CheMed123\31.jpg,"bottle:0.51, bottle:0.50, bottle:0.43, bottle:0.39, bottle:0.39, bottle:0.38, bottle:0.38, bottle:0.33, bottle:0.28, bottle:0.28, bottle:0.27",product_display,11
+32,CheMed123,data\raw\images\CheMed123\32.jpg,person:0.59,lifestyle,1
+33,CheMed123,data\raw\images\CheMed123\33.jpg,"orange:0.67, orange:0.58, book:0.27",other,3
+34,CheMed123,data\raw\images\CheMed123\34.jpg,none,other,0
+38,CheMed123,data\raw\images\CheMed123\38.jpg,none,other,0
+39,CheMed123,data\raw\images\CheMed123\39.jpg,"mouse:0.91, mouse:0.90, mouse:0.89, mouse:0.62, mouse:0.59, mouse:0.55, mouse:0.53, mouse:0.41",other,8
+40,CheMed123,data\raw\images\CheMed123\40.jpg,"person:0.72, person:0.67, person:0.63, person:0.60, person:0.59, person:0.51, person:0.45, person:0.44, person:0.33, person:0.33",lifestyle,10
+41,CheMed123,data\raw\images\CheMed123\41.jpg,person:0.42,lifestyle,1
+43,CheMed123,data\raw\images\CheMed123\43.jpg,"person:0.86, chair:0.29",lifestyle,2
+44,CheMed123,data\raw\images\CheMed123\44.jpg,"cell phone:0.94, person:0.85",lifestyle,2
+45,CheMed123,data\raw\images\CheMed123\45.jpg,scissors:0.63,product_display,1
+46,CheMed123,data\raw\images\CheMed123\46.jpg,"person:0.83, person:0.47, tv:0.39",lifestyle,3
+48,CheMed123,data\raw\images\CheMed123\48.jpg,none,other,0
+49,CheMed123,data\raw\images\CheMed123\49.jpg,"kite:0.68, kite:0.40, kite:0.34, frisbee:0.33",other,4
+50,CheMed123,data\raw\images\CheMed123\50.jpg,cake:0.29,other,1
+52,CheMed123,data\raw\images\CheMed123\52.jpg,"person:0.70, person:0.65, horse:0.63, person:0.51, person:0.43, person:0.33",lifestyle,6
+53,CheMed123,data\raw\images\CheMed123\53.jpg,person:0.57,lifestyle,1
+55,CheMed123,data\raw\images\CheMed123\55.jpg,stop sign:0.31,other,1
+56,CheMed123,data\raw\images\CheMed123\56.jpg,person:0.83,lifestyle,1
+58,CheMed123,data\raw\images\CheMed123\58.jpg,bottle:0.41,product_display,1
+59,CheMed123,data\raw\images\CheMed123\59.jpg,bottle:0.29,product_display,1
+60,CheMed123,data\raw\images\CheMed123\60.jpg,none,other,0
+64,CheMed123,data\raw\images\CheMed123\64.jpg,"person:0.69, person:0.44, banana:0.28, remote:0.26",lifestyle,4
+67,CheMed123,data\raw\images\CheMed123\67.jpg,"stop sign:0.58, book:0.28",other,2
+70,CheMed123,data\raw\images\CheMed123\70.jpg,"potted plant:0.92, person:0.84, book:0.42",lifestyle,3
+71,CheMed123,data\raw\images\CheMed123\71.jpg,"person:0.88, person:0.80",lifestyle,2
+74,CheMed123,data\raw\images\CheMed123\74.jpg,none,other,0
+75,CheMed123,data\raw\images\CheMed123\75.jpg,person:0.84,lifestyle,1
+76,CheMed123,data\raw\images\CheMed123\76.jpg,"person:0.87, chair:0.27, chair:0.25",lifestyle,3
+77,CheMed123,data\raw\images\CheMed123\77.jpg,"bottle:0.96, bottle:0.91, bottle:0.90, bottle:0.89",product_display,4
+78,CheMed123,data\raw\images\CheMed123\78.jpg,"person:0.77, person:0.36",lifestyle,2
+79,CheMed123,data\raw\images\CheMed123\79.jpg,none,other,0
+80,CheMed123,data\raw\images\CheMed123\80.jpg,"person:0.93, bottle:0.74, chair:0.56",promotional,3
+81,CheMed123,data\raw\images\CheMed123\81.jpg,"bottle:0.88, bottle:0.83, bottle:0.82, bottle:0.80, bottle:0.76",product_display,5
+82,CheMed123,data\raw\images\CheMed123\82.jpg,"bottle:0.90, bottle:0.84, bottle:0.74, apple:0.48",product_display,4
+85,CheMed123,data\raw\images\CheMed123\85.jpg,none,other,0
+86,CheMed123,data\raw\images\CheMed123\86.jpg,"person:0.90, refrigerator:0.36",lifestyle,2
+87,CheMed123,data\raw\images\CheMed123\87.jpg,parking meter:0.28,other,1
+88,CheMed123,data\raw\images\CheMed123\88.jpg,none,other,0
+9,CheMed123,data\raw\images\CheMed123\9.jpg,bottle:0.39,product_display,1
+90,CheMed123,data\raw\images\CheMed123\90.jpg,book:0.31,other,1
+91,CheMed123,data\raw\images\CheMed123\91.jpg,none,other,0
+92,CheMed123,data\raw\images\CheMed123\92.jpg,none,other,0
+93,CheMed123,data\raw\images\CheMed123\93.jpg,person:0.91,lifestyle,1
+94,CheMed123,data\raw\images\CheMed123\94.jpg,"cup:0.74, person:0.48, cup:0.39",promotional,3
+95,CheMed123,data\raw\images\CheMed123\95.jpg,"person:0.87, person:0.49",lifestyle,2
+96,CheMed123,data\raw\images\CheMed123\96.jpg,cup:0.33,product_display,1
+97,CheMed123,data\raw\images\CheMed123\97.jpg,none,other,0
+26161,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26161.jpg,"bottle:0.34, bottle:0.30",product_display,2
+26162,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26162.jpg,none,other,0
+26163,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26163.jpg,"bottle:0.48, bottle:0.47, bottle:0.43, bottle:0.27",product_display,4
+26164,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26164.jpg,"bottle:0.57, bottle:0.38, bottle:0.27, bottle:0.26, bottle:0.26",product_display,5
+26165,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26165.jpg,none,other,0
+26166,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26166.jpg,book:0.25,other,1
+26167,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26167.jpg,"bottle:0.51, bottle:0.51, dining table:0.46, bottle:0.42, bottle:0.42, cup:0.37, bottle:0.34, bottle:0.33, bottle:0.32, bottle:0.31, bottle:0.30, bottle:0.29",product_display,12
+26168,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26168.jpg,person:0.31,lifestyle,1
+26169,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26169.jpg,none,other,0
+26170,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26170.jpg,bottle:0.27,product_display,1
+26171,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26171.jpg,"person:0.68, stop sign:0.29",lifestyle,2
+26172,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26172.jpg,none,other,0
+26173,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26173.jpg,none,other,0
+26174,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26174.jpg,"bottle:0.87, dining table:0.35, bottle:0.33, bottle:0.29",product_display,4
+26175,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26175.jpg,"bottle:0.56, bottle:0.51, bottle:0.41, bottle:0.26",product_display,4
+26176,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26176.jpg,book:0.25,other,1
+26177,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26177.jpg,none,other,0
+26178,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26178.jpg,"bottle:0.66, book:0.26",product_display,2
+26179,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26179.jpg,none,other,0
+26180,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26180.jpg,bottle:0.34,product_display,1
+26181,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26181.jpg,bottle:0.52,product_display,1
+26182,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26182.jpg,bottle:0.59,product_display,1
+26183,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26183.jpg,bottle:0.74,product_display,1
+26184,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26184.jpg,"bottle:0.93, person:0.79, person:0.67, orange:0.46, orange:0.37, person:0.35, orange:0.35",promotional,7
+26185,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26185.jpg,none,other,0
+26186,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26186.jpg,"person:0.89, person:0.76, person:0.52",lifestyle,3
+26187,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26187.jpg,person:0.80,lifestyle,1
+26188,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26188.jpg,"bottle:0.47, book:0.26",product_display,2
+26189,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26189.jpg,"bottle:0.34, bottle:0.33, bottle:0.31, bottle:0.31, orange:0.28",product_display,5
+26190,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26190.jpg,"bottle:0.34, bottle:0.30",product_display,2
+26191,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26191.jpg,none,other,0
+26192,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26192.jpg,none,other,0
+26193,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26193.jpg,none,other,0
+26194,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26194.jpg,"bottle:0.38, cell phone:0.34, bottle:0.30",product_display,3
+26195,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26195.jpg,none,other,0
+26196,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26196.jpg,none,other,0
+26197,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26197.jpg,bottle:0.29,product_display,1
+26198,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26198.jpg,"refrigerator:0.44, book:0.25",other,2
+26199,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26199.jpg,book:0.35,other,1
+26200,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26200.jpg,bottle:0.27,product_display,1
+26201,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26201.jpg,"person:0.68, stop sign:0.29",lifestyle,2
+26202,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26202.jpg,none,other,0
+26203,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26203.jpg,none,other,0
+26204,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26204.jpg,none,other,0
+26205,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26205.jpg,"bottle:0.51, bottle:0.51, dining table:0.46, bottle:0.42, bottle:0.42, cup:0.37, bottle:0.34, bottle:0.33, bottle:0.32, bottle:0.31, bottle:0.30, bottle:0.29",product_display,12
+26206,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26206.jpg,person:0.31,lifestyle,1
+26207,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26207.jpg,"person:0.89, person:0.76, person:0.52",lifestyle,3
+26208,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26208.jpg,"person:0.70, person:0.62",lifestyle,2
+26209,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26209.jpg,none,other,0
+26210,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26210.jpg,bottle:0.61,product_display,1
+26211,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26211.jpg,bottle:0.74,product_display,1
+26212,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26212.jpg,"bottle:0.30, traffic light:0.30",product_display,2
+26213,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26213.jpg,none,other,0
+26214,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26214.jpg,"bottle:0.48, bottle:0.47, bottle:0.43, bottle:0.27",product_display,4
+26215,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26215.jpg,"bottle:0.57, bottle:0.38, bottle:0.27, bottle:0.26, bottle:0.26",product_display,5
+26216,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26216.jpg,bottle:0.81,product_display,1
+26217,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26217.jpg,none,other,0
+26218,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26218.jpg,none,other,0
+26219,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26219.jpg,"bottle:0.66, book:0.26",product_display,2
+26220,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26220.jpg,bottle:0.86,product_display,1
+26221,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26221.jpg,none,other,0
+26222,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26222.jpg,none,other,0
+26223,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26223.jpg,none,other,0
+26224,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26224.jpg,"bottle:0.56, bottle:0.51, bottle:0.41, bottle:0.26",product_display,4
+26225,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26225.jpg,bottle:0.27,product_display,1
+26226,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26226.jpg,"person:0.68, stop sign:0.29",lifestyle,2
+26227,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26227.jpg,none,other,0
+26228,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26228.jpg,none,other,0
+26229,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26229.jpg,none,other,0
+26230,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26230.jpg,none,other,0
+26231,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26231.jpg,none,other,0
+26232,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26232.jpg,none,other,0
+26233,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26233.jpg,book:0.25,other,1
+26234,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26234.jpg,bottle:0.74,product_display,1
+26235,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26235.jpg,"bottle:0.93, person:0.79, person:0.67, orange:0.46, orange:0.37, person:0.35, orange:0.35",promotional,7
+26236,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26236.jpg,none,other,0
+26237,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26237.jpg,"person:0.89, person:0.76, person:0.52",lifestyle,3
+26238,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26238.jpg,person:0.80,lifestyle,1
+26239,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26239.jpg,"bottle:0.30, traffic light:0.30",product_display,2
+26240,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26240.jpg,"bottle:0.87, dining table:0.35, bottle:0.33, bottle:0.29",product_display,4
+26241,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26241.jpg,"bottle:0.56, bottle:0.51, bottle:0.41, bottle:0.26",product_display,4
+26242,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26242.jpg,none,other,0
+26243,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26243.jpg,none,other,0
+26244,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26244.jpg,none,other,0
+26245,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26245.jpg,"bottle:0.38, cell phone:0.34, bottle:0.30",product_display,3
+26246,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26246.jpg,none,other,0
+26247,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26247.jpg,none,other,0
+26248,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26248.jpg,bottle:0.29,product_display,1
+26249,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26249.jpg,"refrigerator:0.44, book:0.25",other,2
+26250,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26250.jpg,book:0.35,other,1
+26251,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26251.jpg,bottle:0.33,product_display,1
+26252,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26252.jpg,bottle:0.50,product_display,1
+26253,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26253.jpg,"parking meter:0.37, bottle:0.37, bottle:0.29",product_display,3
+26254,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26254.jpg,"bottle:0.79, bottle:0.56, bottle:0.38, bottle:0.37, bottle:0.36, bottle:0.34, bottle:0.30, bottle:0.30",product_display,8
+26255,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26255.jpg,none,other,0
+26256,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26256.jpg,"refrigerator:0.51, bottle:0.44, bottle:0.40, dining table:0.30, bottle:0.29, bottle:0.28, bottle:0.28, bottle:0.26",product_display,8
+26257,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26257.jpg,bottle:0.86,product_display,1
+26258,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26258.jpg,none,other,0
+26259,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26259.jpg,bottle:0.27,product_display,1
+26260,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26260.jpg,"person:0.68, stop sign:0.29",lifestyle,2
+26261,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26261.jpg,none,other,0
+26262,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26262.jpg,none,other,0
+26263,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26263.jpg,"orange:0.85, orange:0.75, bowl:0.46, dining table:0.43",other,4
+26264,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26264.jpg,none,other,0
+26265,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26265.jpg,cup:0.35,product_display,1
+26266,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26266.jpg,bottle:0.81,product_display,1
+26267,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26267.jpg,"bottle:0.87, dining table:0.35, bottle:0.33, bottle:0.29",product_display,4
+26268,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26268.jpg,"bottle:0.56, bottle:0.51, bottle:0.41, bottle:0.26",product_display,4
+26269,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26269.jpg,bottle:0.52,product_display,1
+26270,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26270.jpg,"bottle:0.47, book:0.26",product_display,2
+26271,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26271.jpg,person:0.79,lifestyle,1
+26272,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26272.jpg,none,other,0
+26273,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26273.jpg,none,other,0
+26274,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26274.jpg,cell phone:0.32,other,1
+26275,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26275.jpg,horse:0.88,other,1
+26276,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26276.jpg,"book:0.34, cup:0.29",product_display,2
+26277,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26277.jpg,none,other,0
+26278,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26278.jpg,"bottle:0.67, vase:0.61",product_display,2
+26279,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26279.jpg,cup:0.39,product_display,1
+26280,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26280.jpg,"bottle:0.47, book:0.26",product_display,2
+26281,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26281.jpg,cup:0.35,product_display,1
+26282,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26282.jpg,bottle:0.81,product_display,1
+26283,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26283.jpg,none,other,0
+26284,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26284.jpg,none,other,0
+26285,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26285.jpg,bottle:0.34,product_display,1
+26286,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26286.jpg,"bottle:0.32, dining table:0.27",product_display,2
+26287,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26287.jpg,"bottle:0.79, dining table:0.51",product_display,2
+26288,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26288.jpg,"bottle:0.68, bottle:0.40, dining table:0.30",product_display,3
+26289,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26289.jpg,"bottle:0.73, dining table:0.40",product_display,2
+26290,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26290.jpg,"bottle:0.80, bottle:0.45, bottle:0.37, bottle:0.34, bottle:0.33, bottle:0.32, bottle:0.27, dining table:0.27, bottle:0.26",product_display,9
+26291,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26291.jpg,"bottle:0.82, dining table:0.39, dining table:0.25",product_display,3
+26292,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26292.jpg,none,other,0
+26293,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26293.jpg,none,other,0
+26294,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26294.jpg,"bottle:0.64, bottle:0.63, bottle:0.40, bottle:0.36, bottle:0.35, bottle:0.34, bottle:0.34, bottle:0.31, bottle:0.27, bottle:0.27, bottle:0.26",product_display,11
+26295,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26295.jpg,"bottle:0.67, vase:0.61",product_display,2
+26296,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26296.jpg,none,other,0
+26297,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26297.jpg,none,other,0
+26298,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26298.jpg,none,other,0
+26299,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26299.jpg,none,other,0
+26300,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26300.jpg,"bottle:0.51, bottle:0.51, dining table:0.46, bottle:0.42, bottle:0.42, cup:0.37, bottle:0.34, bottle:0.33, bottle:0.32, bottle:0.31, bottle:0.30, bottle:0.29",product_display,12
+26301,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26301.jpg,person:0.31,lifestyle,1
+26302,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26302.jpg,none,other,0
+26303,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26303.jpg,none,other,0
+26304,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26304.jpg,none,other,0
+26305,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26305.jpg,none,other,0
+26306,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26306.jpg,"bottle:0.38, cell phone:0.34, bottle:0.30",product_display,3
+26307,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26307.jpg,none,other,0
+26308,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26308.jpg,none,other,0
+26309,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26309.jpg,bottle:0.29,product_display,1
+26310,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26310.jpg,"refrigerator:0.44, book:0.25",other,2
+26311,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26311.jpg,book:0.35,other,1
+26312,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26312.jpg,"bottle:0.79, bottle:0.56, bottle:0.38, bottle:0.37, bottle:0.36, bottle:0.34, bottle:0.30, bottle:0.30",product_display,8
+26313,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26313.jpg,none,other,0
+26314,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26314.jpg,none,other,0
+26315,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26315.jpg,none,other,0
+26316,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26316.jpg,bottle:0.68,product_display,1
+26317,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26317.jpg,none,other,0
+26318,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26318.jpg,none,other,0
+26319,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26319.jpg,none,other,0
+26320,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26320.jpg,bottle:0.27,product_display,1
+26321,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26321.jpg,"bottle:0.72, dining table:0.49, cup:0.35, book:0.27",product_display,4
+26322,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26322.jpg,cup:0.35,product_display,1
+26323,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26323.jpg,none,other,0
+26324,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26324.jpg,"cup:0.72, cup:0.39, book:0.29",product_display,3
+26325,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26325.jpg,bottle:0.81,product_display,1
+26326,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26326.jpg,"bottle:0.48, bottle:0.47, bottle:0.43, bottle:0.27",product_display,4
+26327,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26327.jpg,"bottle:0.57, bottle:0.38, bottle:0.27, bottle:0.26, bottle:0.26",product_display,5
+26328,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26328.jpg,none,other,0
+26329,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26329.jpg,book:0.25,other,1
+26330,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26330.jpg,none,other,0
+26331,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26331.jpg,"person:0.68, stop sign:0.29",lifestyle,2
+26332,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26332.jpg,none,other,0
+26333,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26333.jpg,"bottle:0.87, dining table:0.35, bottle:0.33, bottle:0.29",product_display,4
+26334,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26334.jpg,"bottle:0.56, bottle:0.51, bottle:0.41, bottle:0.26",product_display,4
+26335,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26335.jpg,none,other,0
+26336,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26336.jpg,none,other,0
+26337,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26337.jpg,none,other,0
+26338,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26338.jpg,"bottle:0.51, bottle:0.51, dining table:0.46, bottle:0.42, bottle:0.42, cup:0.37, bottle:0.34, bottle:0.33, bottle:0.32, bottle:0.31, bottle:0.30, bottle:0.29",product_display,12
+26339,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26339.jpg,person:0.31,lifestyle,1
+26340,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26340.jpg,bottle:0.59,product_display,1
+26341,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26341.jpg,bottle:0.61,product_display,1
+26343,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26343.jpg,"bottle:0.93, person:0.79, person:0.67, orange:0.46, orange:0.37, person:0.35, orange:0.35",promotional,7
+26344,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26344.jpg,none,other,0
+26345,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26345.jpg,"person:0.89, person:0.76, person:0.52",lifestyle,3
+26346,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26346.jpg,person:0.80,lifestyle,1
+26347,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26347.jpg,"bottle:0.87, dining table:0.35, bottle:0.33, bottle:0.29",product_display,4
+26348,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26348.jpg,bottle:0.74,product_display,1
+26349,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26349.jpg,bottle:0.86,product_display,1
+26350,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26350.jpg,"orange:0.85, orange:0.75, bowl:0.46, dining table:0.43",other,4
+26351,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26351.jpg,cup:0.35,product_display,1
+26352,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26352.jpg,bottle:0.52,product_display,1
+26353,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26353.jpg,"parking meter:0.29, cell phone:0.26",other,2
+26354,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26354.jpg,none,other,0
+26355,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26355.jpg,book:0.25,other,1
+26356,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26356.jpg,"bottle:0.64, bottle:0.63, bottle:0.40, bottle:0.36, bottle:0.35, bottle:0.34, bottle:0.34, bottle:0.31, bottle:0.27, bottle:0.27, bottle:0.26",product_display,11
+26357,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26357.jpg,"refrigerator:0.51, bottle:0.44, bottle:0.40, dining table:0.30, bottle:0.29, bottle:0.28, bottle:0.28, bottle:0.26",product_display,8
+26358,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26358.jpg,"bottle:0.48, bottle:0.47, bottle:0.43, bottle:0.27",product_display,4
+26359,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26359.jpg,"bottle:0.57, bottle:0.38, bottle:0.27, bottle:0.26, bottle:0.26",product_display,5
+26360,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26360.jpg,bottle:0.44,product_display,1
+26361,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26361.jpg,"bottle:0.50, bottle:0.35, bottle:0.32",product_display,3
+26362,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26362.jpg,"bottle:0.51, bottle:0.35",product_display,2
+26363,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26363.jpg,"bottle:0.61, bottle:0.36, bottle:0.34, bottle:0.33, bottle:0.29, bottle:0.29, bottle:0.28, bottle:0.27, bottle:0.27",product_display,9
+26364,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26364.jpg,bottle:0.86,product_display,1
+26365,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26365.jpg,none,other,0
+26366,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26366.jpg,none,other,0
+26367,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26367.jpg,none,other,0
+26368,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26368.jpg,bottle:0.27,product_display,1
+26369,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26369.jpg,"bottle:0.51, bottle:0.51, dining table:0.46, bottle:0.42, bottle:0.42, cup:0.37, bottle:0.34, bottle:0.33, bottle:0.32, bottle:0.31, bottle:0.30, bottle:0.29",product_display,12
+26370,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26370.jpg,person:0.31,lifestyle,1
+26371,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26371.jpg,"person:0.68, stop sign:0.29",lifestyle,2
+26372,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26372.jpg,none,other,0
+26373,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26373.jpg,none,other,0
+26374,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26374.jpg,cup:0.39,product_display,1
+26375,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26375.jpg,"bottle:0.47, book:0.26",product_display,2
+26376,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26376.jpg,cup:0.35,product_display,1
+26377,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26377.jpg,bottle:0.81,product_display,1
+26378,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26378.jpg,bottle:0.34,product_display,1
+26379,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26379.jpg,"bottle:0.64, bottle:0.63, bottle:0.40, bottle:0.36, bottle:0.35, bottle:0.34, bottle:0.34, bottle:0.31, bottle:0.27, bottle:0.27, bottle:0.26",product_display,11
+26380,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26380.jpg,none,other,0
+26381,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26381.jpg,bottle:0.33,product_display,1
+26382,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26382.jpg,"orange:0.32, teddy bear:0.27",other,2
+26383,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26383.jpg,none,other,0
+26384,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26384.jpg,none,other,0
+26385,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26385.jpg,"sports ball:0.37, sports ball:0.30",other,2
+26386,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26386.jpg,none,other,0
+26387,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26387.jpg,none,other,0
+26388,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26388.jpg,"bottle:0.67, vase:0.61",product_display,2
+26389,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26389.jpg,none,other,0
+26390,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26390.jpg,none,other,0
+26391,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26391.jpg,none,other,0
+26392,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26392.jpg,none,other,0
+26393,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26393.jpg,bottle:0.68,product_display,1
+26394,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26394.jpg,"bottle:0.87, dining table:0.35, bottle:0.33, bottle:0.29",product_display,4
+26395,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26395.jpg,none,other,0
+26396,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26396.jpg,"bottle:0.51, bottle:0.51, dining table:0.46, bottle:0.42, bottle:0.42, cup:0.37, bottle:0.34, bottle:0.33, bottle:0.32, bottle:0.31, bottle:0.30, bottle:0.29",product_display,12
+26397,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26397.jpg,person:0.31,lifestyle,1
+26398,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26398.jpg,"bottle:0.64, bottle:0.63, bottle:0.40, bottle:0.36, bottle:0.35, bottle:0.34, bottle:0.34, bottle:0.31, bottle:0.27, bottle:0.27, bottle:0.26",product_display,11
+26399,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26399.jpg,none,other,0
+26400,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26400.jpg,bottle:0.33,product_display,1
+26401,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26401.jpg,"orange:0.32, teddy bear:0.27",other,2
+26402,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26402.jpg,none,other,0
+26403,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26403.jpg,bottle:0.27,product_display,1
+26404,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26404.jpg,none,other,0
+26405,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26405.jpg,none,other,0
+26406,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26406.jpg,bottle:0.86,product_display,1
+26407,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26407.jpg,none,other,0
+26408,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26408.jpg,bottle:0.59,product_display,1
+26409,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26409.jpg,none,other,0
+26410,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26410.jpg,"fork:0.86, cup:0.49, knife:0.44",product_display,3
+26411,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26411.jpg,none,other,0
+26412,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26412.jpg,none,other,0
+26413,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26413.jpg,"person:0.68, stop sign:0.29",lifestyle,2
+26414,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26414.jpg,none,other,0
+26415,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26415.jpg,"sports ball:0.37, sports ball:0.30",other,2
+26416,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26416.jpg,none,other,0
+26417,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26417.jpg,bottle:0.25,product_display,1
+26418,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26418.jpg,bottle:0.90,product_display,1
+26419,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26419.jpg,"book:0.29, bottle:0.28, refrigerator:0.28, bottle:0.27",product_display,4
+26420,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26420.jpg,refrigerator:0.38,other,1
+26421,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26421.jpg,none,other,0
+26423,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26423.jpg,none,other,0
+26424,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26424.jpg,none,other,0
+26425,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26425.jpg,none,other,0
+26426,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26426.jpg,"bottle:0.38, cell phone:0.34, bottle:0.30",product_display,3
+26427,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26427.jpg,none,other,0
+26428,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26428.jpg,none,other,0
+26429,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26429.jpg,bottle:0.29,product_display,1
+26430,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26430.jpg,"refrigerator:0.44, book:0.25",other,2
+26431,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26431.jpg,"bottle:0.79, bottle:0.56, bottle:0.38, bottle:0.37, bottle:0.36, bottle:0.34, bottle:0.30, bottle:0.30",product_display,8
+26432,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26432.jpg,none,other,0
+26433,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26433.jpg,none,other,0
+26434,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26434.jpg,none,other,0
+26435,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26435.jpg,bottle:0.33,product_display,1
+26436,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26436.jpg,"orange:0.32, teddy bear:0.27",other,2
+26437,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26437.jpg,none,other,0
+26438,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26438.jpg,bottle:0.27,product_display,1
+26439,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26439.jpg,bottle:0.86,product_display,1
+26440,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26440.jpg,"cup:0.72, cup:0.39, book:0.29",product_display,3
+26441,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26441.jpg,"bottle:0.34, bottle:0.33, bottle:0.31, bottle:0.31, orange:0.28",product_display,5
+26442,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26442.jpg,"bottle:0.34, bottle:0.30",product_display,2
+26443,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26443.jpg,"bottle:0.48, bottle:0.47, bottle:0.43, bottle:0.27",product_display,4
+26444,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26444.jpg,"bottle:0.57, bottle:0.38, bottle:0.27, bottle:0.26, bottle:0.26",product_display,5
+26445,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26445.jpg,none,other,0
+26446,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26446.jpg,none,other,0
+26447,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26447.jpg,bottle:0.74,product_display,1
+26448,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26448.jpg,"bottle:0.47, book:0.26",product_display,2
+26449,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26449.jpg,"person:0.68, stop sign:0.29",lifestyle,2
+26450,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26450.jpg,none,other,0
+26451,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26451.jpg,none,other,0
+26452,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26452.jpg,cup:0.35,product_display,1
+26453,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26453.jpg,bottle:0.81,product_display,1
+26454,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26454.jpg,clock:0.27,product_display,1
+26455,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26455.jpg,"fork:0.86, cup:0.49, knife:0.44",product_display,3
+26456,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26456.jpg,bottle:0.43,product_display,1
+26457,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26457.jpg,none,other,0
+26458,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26458.jpg,none,other,0
+26460,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26460.jpg,bottle:0.91,product_display,1
+26461,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26461.jpg,bottle:0.90,product_display,1
+26462,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26462.jpg,"bottle:0.67, vase:0.61",product_display,2
+26463,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26463.jpg,"cup:0.72, cup:0.39, book:0.29",product_display,3
+26464,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26464.jpg,none,other,0
+26465,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26465.jpg,book:0.25,other,1
+26466,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26466.jpg,"bottle:0.47, book:0.26",product_display,2
+26467,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26467.jpg,none,other,0
+26468,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26468.jpg,"fork:0.86, cup:0.49, knife:0.44",product_display,3
+26469,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26469.jpg,none,other,0
+26470,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26470.jpg,none,other,0
+26471,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26471.jpg,"person:0.68, stop sign:0.29",lifestyle,2
+26472,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26472.jpg,none,other,0
+26473,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26473.jpg,"sports ball:0.37, sports ball:0.30",other,2
+26474,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26474.jpg,none,other,0
+26475,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26475.jpg,clock:0.27,product_display,1
+26476,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26476.jpg,none,other,0
+26477,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26477.jpg,bottle:0.27,product_display,1
+26478,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26478.jpg,none,other,0
+26479,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26479.jpg,bottle:0.43,product_display,1
+26480,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26480.jpg,none,other,0
+26481,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26481.jpg,bottle:0.86,product_display,1
+26482,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26482.jpg,none,other,0
+26483,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26483.jpg,bottle:0.27,product_display,1
+26484,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26484.jpg,cell phone:0.32,other,1
+26485,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26485.jpg,"book:0.34, cup:0.29",product_display,2
+26486,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26486.jpg,"bottle:0.51, bottle:0.51, dining table:0.46, bottle:0.42, bottle:0.42, cup:0.37, bottle:0.34, bottle:0.33, bottle:0.32, bottle:0.31, bottle:0.30, bottle:0.29",product_display,12
+26487,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26487.jpg,person:0.31,lifestyle,1
+26488,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26488.jpg,"cup:0.45, bottle:0.29",product_display,2
+26489,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26489.jpg,"fork:0.86, cup:0.49, knife:0.44",product_display,3
+26490,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26490.jpg,"book:0.29, bottle:0.28, refrigerator:0.28, bottle:0.27",product_display,4
+26491,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26491.jpg,refrigerator:0.38,other,1
+26492,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26492.jpg,"person:0.68, stop sign:0.29",lifestyle,2
+26493,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26493.jpg,none,other,0
+26494,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26494.jpg,clock:0.27,product_display,1
+26495,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26495.jpg,none,other,0
+26496,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26496.jpg,bottle:0.86,product_display,1
+26497,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26497.jpg,none,other,0
+26498,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26498.jpg,none,other,0
+26499,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26499.jpg,"bottle:0.93, person:0.79, person:0.67, orange:0.46, orange:0.37, person:0.35, orange:0.35",promotional,7
+26500,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26500.jpg,person:0.80,lifestyle,1
+26501,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26501.jpg,"bottle:0.87, dining table:0.35, bottle:0.33, bottle:0.29",product_display,4
+26502,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26502.jpg,bottle:0.74,product_display,1
+26503,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26503.jpg,"orange:0.85, orange:0.75, bowl:0.46, dining table:0.43",other,4
+26504,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26504.jpg,cup:0.35,product_display,1
+26505,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26505.jpg,book:0.25,other,1
+26506,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26506.jpg,"bottle:0.64, bottle:0.63, bottle:0.40, bottle:0.36, bottle:0.35, bottle:0.34, bottle:0.34, bottle:0.31, bottle:0.27, bottle:0.27, bottle:0.26",product_display,11
+26507,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26507.jpg,none,other,0
+26508,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26508.jpg,"orange:0.32, teddy bear:0.27",other,2
+26509,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26509.jpg,"fork:0.86, cup:0.49, knife:0.44",product_display,3
+26510,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26510.jpg,none,other,0
+26511,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26511.jpg,none,other,0
+26512,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26512.jpg,"sports ball:0.37, sports ball:0.30",other,2
+26513,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26513.jpg,"bottle:0.34, bottle:0.33, bottle:0.31, bottle:0.31, orange:0.28",product_display,5
+26514,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26514.jpg,"bottle:0.34, bottle:0.30",product_display,2
+26515,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26515.jpg,none,other,0
+26516,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26516.jpg,"bottle:0.51, bottle:0.51, dining table:0.46, bottle:0.42, bottle:0.42, cup:0.37, bottle:0.34, bottle:0.33, bottle:0.32, bottle:0.31, bottle:0.30, bottle:0.29",product_display,12
+26517,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26517.jpg,person:0.31,lifestyle,1
+26518,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26518.jpg,"person:0.70, person:0.62",lifestyle,2
+26519,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26519.jpg,none,other,0
+26520,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26520.jpg,none,other,0
+26521,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26521.jpg,dining table:0.34,other,1
+26523,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26523.jpg,dining table:0.44,other,1
+26524,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26524.jpg,"bottle:0.30, traffic light:0.30",product_display,2
+26525,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26525.jpg,none,other,0
+26526,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26526.jpg,"person:0.89, person:0.76, person:0.52",lifestyle,3
+26527,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26527.jpg,person:0.80,lifestyle,1
+26528,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26528.jpg,"bottle:0.87, dining table:0.35, bottle:0.33, bottle:0.29",product_display,4
+26529,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26529.jpg,"orange:0.32, teddy bear:0.27",other,2
+26530,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26530.jpg,bottle:0.74,product_display,1
+26531,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26531.jpg,bottle:0.91,product_display,1
+26532,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26532.jpg,none,other,0
+26533,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26533.jpg,refrigerator:0.38,other,1
+26534,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26534.jpg,"person:0.68, stop sign:0.29",lifestyle,2
+26535,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26535.jpg,none,other,0
+26536,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26536.jpg,clock:0.27,product_display,1
+26537,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26537.jpg,"bottle:0.47, book:0.26",product_display,2
+26538,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26538.jpg,cup:0.35,product_display,1
+26539,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26539.jpg,bottle:0.81,product_display,1
+26540,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26540.jpg,bottle:0.34,product_display,1
+26541,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26541.jpg,none,other,0
+26542,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26542.jpg,none,other,0
+26543,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26543.jpg,orange:0.48,other,1
+26544,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26544.jpg,book:0.28,other,1
+26545,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26545.jpg,none,other,0
+26546,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26546.jpg,"fork:0.86, cup:0.49, knife:0.44",product_display,3
+26547,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26547.jpg,none,other,0
+26548,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26548.jpg,none,other,0
+26549,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26549.jpg,"person:0.68, stop sign:0.29",lifestyle,2
+26550,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26550.jpg,none,other,0
+26551,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26551.jpg,"sports ball:0.37, sports ball:0.30",other,2
+26552,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26552.jpg,bottle:0.25,product_display,1
+26553,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26553.jpg,"book:0.29, bottle:0.28, refrigerator:0.28, bottle:0.27",product_display,4
+26554,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26554.jpg,refrigerator:0.38,other,1
+26555,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26555.jpg,bottle:0.43,product_display,1
+26556,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26556.jpg,none,other,0
+26557,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26557.jpg,none,other,0
+26558,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26558.jpg,bottle:0.27,product_display,1
+26559,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26559.jpg,none,other,0
+26560,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26560.jpg,none,other,0
+26561,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26561.jpg,none,other,0
+26562,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26562.jpg,bottle:0.86,product_display,1
+26563,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26563.jpg,none,other,0
+26564,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26564.jpg,none,other,0
+26565,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26565.jpg,none,other,0
+26566,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26566.jpg,cup:0.35,product_display,1
+26567,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26567.jpg,none,other,0
+26568,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26568.jpg,"bottle:0.64, bottle:0.63, bottle:0.40, bottle:0.36, bottle:0.35, bottle:0.34, bottle:0.34, bottle:0.31, bottle:0.27, bottle:0.27, bottle:0.26",product_display,11
+26569,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26569.jpg,none,other,0
+26570,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26570.jpg,none,other,0
+26571,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26571.jpg,"bottle:0.67, vase:0.61",product_display,2
+26572,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26572.jpg,bottle:0.46,product_display,1
+26573,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26573.jpg,"bottle:0.57, bottle:0.55, bottle:0.38, bottle:0.30",product_display,4
+26574,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26574.jpg,"book:0.48, book:0.39",other,2
+26575,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26575.jpg,bottle:0.33,product_display,1
+26576,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26576.jpg,bottle:0.50,product_display,1
+26577,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26577.jpg,"refrigerator:0.42, bottle:0.26",product_display,2
+26578,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26578.jpg,bottle:0.68,product_display,1
+26579,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26579.jpg,none,other,0
+26580,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26580.jpg,none,other,0
+26581,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26581.jpg,"bottle:0.48, bottle:0.47, bottle:0.43, bottle:0.27",product_display,4
+26582,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26582.jpg,"bottle:0.57, bottle:0.38, bottle:0.27, bottle:0.26, bottle:0.26",product_display,5
+26583,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26583.jpg,book:0.25,other,1
+26584,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26584.jpg,"cell phone:0.44, donut:0.41",other,2
+26585,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26585.jpg,"fork:0.86, cup:0.49, knife:0.44",product_display,3
+26586,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26586.jpg,none,other,0
+26587,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26587.jpg,none,other,0
+26588,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26588.jpg,"sports ball:0.37, sports ball:0.30",other,2
+26589,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26589.jpg,"person:0.68, stop sign:0.29",lifestyle,2
+26590,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26590.jpg,none,other,0
+26591,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26591.jpg,clock:0.27,product_display,1
+26592,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26592.jpg,"bottle:0.30, traffic light:0.30",product_display,2
+26593,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26593.jpg,bottle:0.59,product_display,1
+26594,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26594.jpg,none,other,0
+26595,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26595.jpg,"orange:0.32, teddy bear:0.27",other,2
+26596,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26596.jpg,bottle:0.91,product_display,1
+26597,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26597.jpg,person:0.80,lifestyle,1
+26598,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26598.jpg,bottle:0.74,product_display,1
+26599,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26599.jpg,"bottle:0.51, bottle:0.51, dining table:0.46, bottle:0.42, bottle:0.42, cup:0.37, bottle:0.34, bottle:0.33, bottle:0.32, bottle:0.31, bottle:0.30, bottle:0.29",product_display,12
+26600,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26600.jpg,person:0.31,lifestyle,1
+26601,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26601.jpg,bottle:0.43,product_display,1
+26602,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26602.jpg,none,other,0
+26603,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26603.jpg,none,other,0
+26604,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26604.jpg,bottle:0.27,product_display,1
+26605,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26605.jpg,none,other,0
+26606,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26606.jpg,bottle:0.68,product_display,1
+26607,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26607.jpg,"bottle:0.79, bottle:0.56, bottle:0.38, bottle:0.37, bottle:0.36, bottle:0.34, bottle:0.30, bottle:0.30",product_display,8
+26608,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26608.jpg,none,other,0
+26609,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26609.jpg,none,other,0
+26610,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26610.jpg,none,other,0
+26611,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26611.jpg,bottle:0.86,product_display,1
+26612,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26612.jpg,"book:0.29, bottle:0.28, refrigerator:0.28, bottle:0.27",product_display,4
+26613,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26613.jpg,"book:0.29, cup:0.27",product_display,2
+26614,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26614.jpg,"cup:0.45, bottle:0.29",product_display,2
+26615,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26615.jpg,"bottle:0.34, bottle:0.33, bottle:0.31, bottle:0.31, orange:0.28",product_display,5
+26616,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26616.jpg,"bottle:0.34, bottle:0.30",product_display,2
+26617,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26617.jpg,"refrigerator:0.51, bottle:0.44, bottle:0.40, dining table:0.30, bottle:0.29, bottle:0.28, bottle:0.28, bottle:0.26",product_display,8
+26618,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26618.jpg,"bottle:0.48, bottle:0.47, bottle:0.43, bottle:0.27",product_display,4
+26619,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26619.jpg,"bottle:0.57, bottle:0.38, bottle:0.27, bottle:0.26, bottle:0.26",product_display,5
+26620,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26620.jpg,bottle:0.44,product_display,1
+26621,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26621.jpg,"bottle:0.50, bottle:0.35, bottle:0.32",product_display,3
+26622,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26622.jpg,"bottle:0.51, bottle:0.35",product_display,2
+26623,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26623.jpg,"bottle:0.61, bottle:0.36, bottle:0.34, bottle:0.33, bottle:0.29, bottle:0.29, bottle:0.28, bottle:0.27, bottle:0.27",product_display,9
+26624,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26624.jpg,"bottle:0.38, cake:0.29",product_display,2
+26625,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26625.jpg,none,other,0
+26626,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26626.jpg,none,other,0
+26627,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26627.jpg,none,other,0
+26628,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26628.jpg,none,other,0
+26629,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26629.jpg,"cup:0.72, cup:0.39, book:0.29",product_display,3
+26630,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26630.jpg,none,other,0
+26631,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26631.jpg,none,other,0
+26632,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26632.jpg,book:0.25,other,1
+26633,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26633.jpg,"fork:0.86, cup:0.49, knife:0.44",product_display,3
+26634,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26634.jpg,none,other,0
+26635,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26635.jpg,none,other,0
+26636,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26636.jpg,"sports ball:0.37, sports ball:0.30",other,2
+26637,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26637.jpg,bottle:0.43,product_display,1
+26638,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26638.jpg,none,other,0
+26639,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26639.jpg,none,other,0
+26640,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26640.jpg,bottle:0.27,product_display,1
+26641,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26641.jpg,none,other,0
+26642,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26642.jpg,"person:0.68, stop sign:0.29",lifestyle,2
+26643,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26643.jpg,none,other,0
+26644,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26644.jpg,"bottle:0.80, bottle:0.28",product_display,2
+26645,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26645.jpg,"bottle:0.77, bottle:0.27",product_display,2
+26646,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26646.jpg,orange:0.48,other,1
+26647,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26647.jpg,book:0.28,other,1
+26648,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26648.jpg,none,other,0
+26649,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26649.jpg,none,other,0
+26650,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26650.jpg,none,other,0
+26651,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26651.jpg,cup:0.35,product_display,1
+26652,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26652.jpg,none,other,0
+26653,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26653.jpg,"bottle:0.48, bottle:0.47, bottle:0.43, bottle:0.27",product_display,4
+26654,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26654.jpg,"bottle:0.57, bottle:0.38, bottle:0.27, bottle:0.26, bottle:0.26",product_display,5
+26655,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26655.jpg,book:0.25,other,1
+26656,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26656.jpg,"cell phone:0.44, donut:0.41",other,2
+26657,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26657.jpg,none,other,0
+26658,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26658.jpg,bottle:0.43,product_display,1
+26659,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26659.jpg,none,other,0
+26660,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26660.jpg,none,other,0
+26661,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26661.jpg,bottle:0.27,product_display,1
+26662,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26662.jpg,cell phone:0.32,other,1
+26663,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26663.jpg,"person:0.68, stop sign:0.29",lifestyle,2
+26664,lobelia4cosmetics,data\raw\images\lobelia4cosmetics\26664.jpg,none,other,0
+195747,tikvahpharma,data\raw\images\tikvahpharma\195747.jpg,"tv:0.59, traffic light:0.27",other,2
+195750,tikvahpharma,data\raw\images\tikvahpharma\195750.jpg,none,other,0
+195762,tikvahpharma,data\raw\images\tikvahpharma\195762.jpg,none,other,0
+195772,tikvahpharma,data\raw\images\tikvahpharma\195772.jpg,none,other,0
+195773,tikvahpharma,data\raw\images\tikvahpharma\195773.jpg,book:0.43,other,1
+195798,tikvahpharma,data\raw\images\tikvahpharma\195798.jpg,"bowl:0.42, book:0.33",other,2
+195805,tikvahpharma,data\raw\images\tikvahpharma\195805.jpg,bowl:0.36,other,1
+195807,tikvahpharma,data\raw\images\tikvahpharma\195807.jpg,none,other,0
+195808,tikvahpharma,data\raw\images\tikvahpharma\195808.jpg,"bottle:0.85, person:0.65",promotional,2
+195809,tikvahpharma,data\raw\images\tikvahpharma\195809.jpg,none,other,0
+195810,tikvahpharma,data\raw\images\tikvahpharma\195810.jpg,none,other,0
+195813,tikvahpharma,data\raw\images\tikvahpharma\195813.jpg,bowl:0.36,other,1
+195828,tikvahpharma,data\raw\images\tikvahpharma\195828.jpg,none,other,0
+195829,tikvahpharma,data\raw\images\tikvahpharma\195829.jpg,book:0.39,other,1
+195830,tikvahpharma,data\raw\images\tikvahpharma\195830.jpg,"book:0.33, toothbrush:0.27",other,2
+195831,tikvahpharma,data\raw\images\tikvahpharma\195831.jpg,"tv:0.71, microwave:0.34, clock:0.26",product_display,3
+195832,tikvahpharma,data\raw\images\tikvahpharma\195832.jpg,none,other,0
+195833,tikvahpharma,data\raw\images\tikvahpharma\195833.jpg,none,other,0
+195834,tikvahpharma,data\raw\images\tikvahpharma\195834.jpg,none,other,0
+195835,tikvahpharma,data\raw\images\tikvahpharma\195835.jpg,none,other,0
+195836,tikvahpharma,data\raw\images\tikvahpharma\195836.jpg,none,other,0
+195837,tikvahpharma,data\raw\images\tikvahpharma\195837.jpg,none,other,0
+195838,tikvahpharma,data\raw\images\tikvahpharma\195838.jpg,"refrigerator:0.67, bottle:0.55, bottle:0.53, bottle:0.51, bottle:0.51, bottle:0.49, bottle:0.41, bottle:0.41, bottle:0.39, bottle:0.38, bottle:0.36, bottle:0.35, bottle:0.32, bottle:0.32, bottle:0.29, bottle:0.29, bottle:0.28, bottle:0.28, bottle:0.27, bottle:0.27, bottle:0.26, bottle:0.26, refrigerator:0.25",product_display,23
+195841,tikvahpharma,data\raw\images\tikvahpharma\195841.jpg,refrigerator:0.26,other,1
+195843,tikvahpharma,data\raw\images\tikvahpharma\195843.jpg,"bottle:0.83, bottle:0.55, cup:0.33",product_display,3
+195844,tikvahpharma,data\raw\images\tikvahpharma\195844.jpg,none,other,0
+195845,tikvahpharma,data\raw\images\tikvahpharma\195845.jpg,book:0.39,other,1
+195846,tikvahpharma,data\raw\images\tikvahpharma\195846.jpg,"book:0.33, toothbrush:0.27",other,2
+195847,tikvahpharma,data\raw\images\tikvahpharma\195847.jpg,"tv:0.71, microwave:0.34, clock:0.26",product_display,3
+195848,tikvahpharma,data\raw\images\tikvahpharma\195848.jpg,none,other,0
+195849,tikvahpharma,data\raw\images\tikvahpharma\195849.jpg,none,other,0
+195850,tikvahpharma,data\raw\images\tikvahpharma\195850.jpg,none,other,0
+195851,tikvahpharma,data\raw\images\tikvahpharma\195851.jpg,none,other,0
+195852,tikvahpharma,data\raw\images\tikvahpharma\195852.jpg,none,other,0
+195853,tikvahpharma,data\raw\images\tikvahpharma\195853.jpg,none,other,0
+195858,tikvahpharma,data\raw\images\tikvahpharma\195858.jpg,"bottle:0.56, book:0.36",product_display,2
+195860,tikvahpharma,data\raw\images\tikvahpharma\195860.jpg,bowl:0.36,other,1
+195864,tikvahpharma,data\raw\images\tikvahpharma\195864.jpg,none,other,0
+195870,tikvahpharma,data\raw\images\tikvahpharma\195870.jpg,bowl:0.36,other,1
+195875,tikvahpharma,data\raw\images\tikvahpharma\195875.jpg,none,other,0
+195884,tikvahpharma,data\raw\images\tikvahpharma\195884.jpg,bottle:0.30,product_display,1
+195885,tikvahpharma,data\raw\images\tikvahpharma\195885.jpg,none,other,0
+195886,tikvahpharma,data\raw\images\tikvahpharma\195886.jpg,none,other,0
+195887,tikvahpharma,data\raw\images\tikvahpharma\195887.jpg,none,other,0
+195888,tikvahpharma,data\raw\images\tikvahpharma\195888.jpg,refrigerator:0.34,other,1
+195889,tikvahpharma,data\raw\images\tikvahpharma\195889.jpg,"tv:0.94, laptop:0.80, person:0.79, person:0.70, person:0.64",lifestyle,5
+195891,tikvahpharma,data\raw\images\tikvahpharma\195891.jpg,none,other,0
+195892,tikvahpharma,data\raw\images\tikvahpharma\195892.jpg,"tv:0.88, keyboard:0.80",other,2
+195893,tikvahpharma,data\raw\images\tikvahpharma\195893.jpg,"tv:0.44, keyboard:0.36, person:0.27",lifestyle,3
+195899,tikvahpharma,data\raw\images\tikvahpharma\195899.jpg,tv:0.88,other,1
+195900,tikvahpharma,data\raw\images\tikvahpharma\195900.jpg,"laptop:0.95, laptop:0.91, tv:0.83, person:0.82, tv:0.81, person:0.42, keyboard:0.31",lifestyle,7
+195906,tikvahpharma,data\raw\images\tikvahpharma\195906.jpg,none,other,0
+195909,tikvahpharma,data\raw\images\tikvahpharma\195909.jpg,none,other,0
+195910,tikvahpharma,data\raw\images\tikvahpharma\195910.jpg,none,other,0
+195911,tikvahpharma,data\raw\images\tikvahpharma\195911.jpg,refrigerator:0.34,other,1
+195914,tikvahpharma,data\raw\images\tikvahpharma\195914.jpg,none,other,0
+195917,tikvahpharma,data\raw\images\tikvahpharma\195917.jpg,"tv:0.70, microwave:0.38, clock:0.26",product_display,3
+195933,tikvahpharma,data\raw\images\tikvahpharma\195933.jpg,"tv:0.70, microwave:0.38, clock:0.26",product_display,3
+195934,tikvahpharma,data\raw\images\tikvahpharma\195934.jpg,book:0.39,other,1
+195935,tikvahpharma,data\raw\images\tikvahpharma\195935.jpg,none,other,0
+195936,tikvahpharma,data\raw\images\tikvahpharma\195936.jpg,none,other,0
+195937,tikvahpharma,data\raw\images\tikvahpharma\195937.jpg,none,other,0
+195938,tikvahpharma,data\raw\images\tikvahpharma\195938.jpg,none,other,0
+195939,tikvahpharma,data\raw\images\tikvahpharma\195939.jpg,none,other,0
+195940,tikvahpharma,data\raw\images\tikvahpharma\195940.jpg,"train:0.51, train:0.40",other,2
+195941,tikvahpharma,data\raw\images\tikvahpharma\195941.jpg,none,other,0
+195942,tikvahpharma,data\raw\images\tikvahpharma\195942.jpg,none,other,0
+195948,tikvahpharma,data\raw\images\tikvahpharma\195948.jpg,none,other,0
+195950,tikvahpharma,data\raw\images\tikvahpharma\195950.jpg,none,other,0
+195955,tikvahpharma,data\raw\images\tikvahpharma\195955.jpg,none,other,0
+195960,tikvahpharma,data\raw\images\tikvahpharma\195960.jpg,"tv:0.70, microwave:0.39, clock:0.25",product_display,3
+195961,tikvahpharma,data\raw\images\tikvahpharma\195961.jpg,book:0.39,other,1
+195962,tikvahpharma,data\raw\images\tikvahpharma\195962.jpg,none,other,0
+195963,tikvahpharma,data\raw\images\tikvahpharma\195963.jpg,"book:0.33, toothbrush:0.26",other,2
+195966,tikvahpharma,data\raw\images\tikvahpharma\195966.jpg,"laptop:0.56, cell phone:0.44",other,2
+195967,tikvahpharma,data\raw\images\tikvahpharma\195967.jpg,"laptop:0.67, laptop:0.60, dining table:0.60",other,3
+195968,tikvahpharma,data\raw\images\tikvahpharma\195968.jpg,"laptop:0.85, person:0.55",lifestyle,2
+195969,tikvahpharma,data\raw\images\tikvahpharma\195969.jpg,laptop:0.71,other,1
+195972,tikvahpharma,data\raw\images\tikvahpharma\195972.jpg,none,other,0
+195973,tikvahpharma,data\raw\images\tikvahpharma\195973.jpg,none,other,0
+195974,tikvahpharma,data\raw\images\tikvahpharma\195974.jpg,refrigerator:0.34,other,1
+195976,tikvahpharma,data\raw\images\tikvahpharma\195976.jpg,none,other,0
+195979,tikvahpharma,data\raw\images\tikvahpharma\195979.jpg,bowl:0.36,other,1
+195982,tikvahpharma,data\raw\images\tikvahpharma\195982.jpg,"bottle:0.41, bottle:0.41, bottle:0.38, bottle:0.38, bottle:0.34",product_display,5
+195983,tikvahpharma,data\raw\images\tikvahpharma\195983.jpg,none,other,0
+195986,tikvahpharma,data\raw\images\tikvahpharma\195986.jpg,bowl:0.36,other,1
+195989,tikvahpharma,data\raw\images\tikvahpharma\195989.jpg,"laptop:0.95, laptop:0.91, tv:0.83, person:0.82, tv:0.81, person:0.42, keyboard:0.31",lifestyle,7
+195993,tikvahpharma,data\raw\images\tikvahpharma\195993.jpg,bowl:0.36,other,1
+195994,tikvahpharma,data\raw\images\tikvahpharma\195994.jpg,bottle:0.80,product_display,1
+195999,tikvahpharma,data\raw\images\tikvahpharma\195999.jpg,"refrigerator:0.67, bottle:0.55, bottle:0.53, bottle:0.51, bottle:0.51, bottle:0.49, bottle:0.41, bottle:0.41, bottle:0.39, bottle:0.38, bottle:0.36, bottle:0.35, bottle:0.32, bottle:0.32, bottle:0.29, bottle:0.29, bottle:0.28, bottle:0.28, bottle:0.27, bottle:0.27, bottle:0.26, bottle:0.26, refrigerator:0.25",product_display,23
+196007,tikvahpharma,data\raw\images\tikvahpharma\196007.jpg,"laptop:0.56, cell phone:0.44",other,2
+196008,tikvahpharma,data\raw\images\tikvahpharma\196008.jpg,"laptop:0.67, laptop:0.60, dining table:0.60",other,3
+196009,tikvahpharma,data\raw\images\tikvahpharma\196009.jpg,"laptop:0.85, person:0.55",lifestyle,2
+196010,tikvahpharma,data\raw\images\tikvahpharma\196010.jpg,laptop:0.71,other,1
+196019,tikvahpharma,data\raw\images\tikvahpharma\196019.jpg,none,other,0
+196022,tikvahpharma,data\raw\images\tikvahpharma\196022.jpg,"refrigerator:0.67, bottle:0.55, bottle:0.53, bottle:0.51, bottle:0.51, bottle:0.49, bottle:0.41, bottle:0.41, bottle:0.39, bottle:0.38, bottle:0.36, bottle:0.35, bottle:0.32, bottle:0.32, bottle:0.29, bottle:0.29, bottle:0.28, bottle:0.28, bottle:0.27, bottle:0.27, bottle:0.26, bottle:0.26, refrigerator:0.25",product_display,23
+196030,tikvahpharma,data\raw\images\tikvahpharma\196030.jpg,none,other,0
+196036,tikvahpharma,data\raw\images\tikvahpharma\196036.jpg,none,other,0
+196037,tikvahpharma,data\raw\images\tikvahpharma\196037.jpg,none,other,0
+196038,tikvahpharma,data\raw\images\tikvahpharma\196038.jpg,refrigerator:0.34,other,1
+196039,tikvahpharma,data\raw\images\tikvahpharma\196039.jpg,"laptop:0.95, laptop:0.91, tv:0.83, person:0.82, tv:0.81, person:0.42, keyboard:0.31",lifestyle,7
+196042,tikvahpharma,data\raw\images\tikvahpharma\196042.jpg,none,other,0
+196048,tikvahpharma,data\raw\images\tikvahpharma\196048.jpg,"bowl:0.42, book:0.33",other,2
+196053,tikvahpharma,data\raw\images\tikvahpharma\196053.jpg,"book:0.33, toothbrush:0.26",other,2
+196054,tikvahpharma,data\raw\images\tikvahpharma\196054.jpg,book:0.39,other,1
+196055,tikvahpharma,data\raw\images\tikvahpharma\196055.jpg,"tv:0.70, microwave:0.40, clock:0.25",product_display,3
+196056,tikvahpharma,data\raw\images\tikvahpharma\196056.jpg,none,other,0
+196070,tikvahpharma,data\raw\images\tikvahpharma\196070.jpg,"laptop:0.56, cell phone:0.44",other,2
+196071,tikvahpharma,data\raw\images\tikvahpharma\196071.jpg,"laptop:0.67, laptop:0.60, dining table:0.60",other,3
+196072,tikvahpharma,data\raw\images\tikvahpharma\196072.jpg,"laptop:0.85, person:0.55",lifestyle,2
+196073,tikvahpharma,data\raw\images\tikvahpharma\196073.jpg,laptop:0.71,other,1
+196078,tikvahpharma,data\raw\images\tikvahpharma\196078.jpg,none,other,0
+196083,tikvahpharma,data\raw\images\tikvahpharma\196083.jpg,book:0.51,other,1
+196084,tikvahpharma,data\raw\images\tikvahpharma\196084.jpg,none,other,0
+196085,tikvahpharma,data\raw\images\tikvahpharma\196085.jpg,"refrigerator:0.67, bottle:0.55, bottle:0.53, bottle:0.51, bottle:0.51, bottle:0.49, bottle:0.41, bottle:0.41, bottle:0.39, bottle:0.38, bottle:0.36, bottle:0.35, bottle:0.32, bottle:0.32, bottle:0.29, bottle:0.29, bottle:0.28, bottle:0.28, bottle:0.27, bottle:0.27, bottle:0.26, bottle:0.26, refrigerator:0.25",product_display,23
+196086,tikvahpharma,data\raw\images\tikvahpharma\196086.jpg,"bottle:0.30, bottle:0.29",product_display,2
+196105,tikvahpharma,data\raw\images\tikvahpharma\196105.jpg,none,other,0
+196108,tikvahpharma,data\raw\images\tikvahpharma\196108.jpg,none,other,0
+196109,tikvahpharma,data\raw\images\tikvahpharma\196109.jpg,none,other,0
+196111,tikvahpharma,data\raw\images\tikvahpharma\196111.jpg,none,other,0
+196131,tikvahpharma,data\raw\images\tikvahpharma\196131.jpg,none,other,0
+196132,tikvahpharma,data\raw\images\tikvahpharma\196132.jpg,none,other,0
+196134,tikvahpharma,data\raw\images\tikvahpharma\196134.jpg,bowl:0.36,other,1
+196141,tikvahpharma,data\raw\images\tikvahpharma\196141.jpg,"laptop:0.95, laptop:0.91, tv:0.83, person:0.82, tv:0.81, person:0.42, keyboard:0.31",lifestyle,7
+196142,tikvahpharma,data\raw\images\tikvahpharma\196142.jpg,laptop:0.71,other,1
+196157,tikvahpharma,data\raw\images\tikvahpharma\196157.jpg,"bowl:0.42, book:0.33",other,2
+196164,tikvahpharma,data\raw\images\tikvahpharma\196164.jpg,book:0.28,other,1
+196165,tikvahpharma,data\raw\images\tikvahpharma\196165.jpg,none,other,0
+196166,tikvahpharma,data\raw\images\tikvahpharma\196166.jpg,none,other,0
+196167,tikvahpharma,data\raw\images\tikvahpharma\196167.jpg,book:0.35,other,1
+196169,tikvahpharma,data\raw\images\tikvahpharma\196169.jpg,book:0.25,other,1
+196170,tikvahpharma,data\raw\images\tikvahpharma\196170.jpg,none,other,0
+196172,tikvahpharma,data\raw\images\tikvahpharma\196172.jpg,none,other,0
+196177,tikvahpharma,data\raw\images\tikvahpharma\196177.jpg,"laptop:0.95, laptop:0.91, tv:0.83, person:0.82, tv:0.81, person:0.42, keyboard:0.31",lifestyle,7
+196178,tikvahpharma,data\raw\images\tikvahpharma\196178.jpg,laptop:0.71,other,1
+196198,tikvahpharma,data\raw\images\tikvahpharma\196198.jpg,none,other,0
+196199,tikvahpharma,data\raw\images\tikvahpharma\196199.jpg,none,other,0
+196207,tikvahpharma,data\raw\images\tikvahpharma\196207.jpg,"laptop:0.95, laptop:0.91, tv:0.83, person:0.82, tv:0.81, person:0.42, keyboard:0.31",lifestyle,7
+196211,tikvahpharma,data\raw\images\tikvahpharma\196211.jpg,"bowl:0.42, book:0.33",other,2
+196225,tikvahpharma,data\raw\images\tikvahpharma\196225.jpg,none,other,0
+196246,tikvahpharma,data\raw\images\tikvahpharma\196246.jpg,"laptop:0.95, laptop:0.91, tv:0.83, person:0.82, tv:0.81, person:0.42, keyboard:0.31",lifestyle,7
+196247,tikvahpharma,data\raw\images\tikvahpharma\196247.jpg,laptop:0.71,other,1
+196268,tikvahpharma,data\raw\images\tikvahpharma\196268.jpg,bowl:0.36,other,1
+196269,tikvahpharma,data\raw\images\tikvahpharma\196269.jpg,none,other,0
+196270,tikvahpharma,data\raw\images\tikvahpharma\196270.jpg,none,other,0
+196271,tikvahpharma,data\raw\images\tikvahpharma\196271.jpg,refrigerator:0.34,other,1
+196286,tikvahpharma,data\raw\images\tikvahpharma\196286.jpg,"book:0.33, toothbrush:0.26",other,2
+196288,tikvahpharma,data\raw\images\tikvahpharma\196288.jpg,bowl:0.36,other,1
+196295,tikvahpharma,data\raw\images\tikvahpharma\196295.jpg,"person:0.39, sports ball:0.30",lifestyle,2
+196310,tikvahpharma,data\raw\images\tikvahpharma\196310.jpg,none,other,0
+196311,tikvahpharma,data\raw\images\tikvahpharma\196311.jpg,none,other,0
+196312,tikvahpharma,data\raw\images\tikvahpharma\196312.jpg,refrigerator:0.34,other,1
+196313,tikvahpharma,data\raw\images\tikvahpharma\196313.jpg,laptop:0.71,other,1
+196337,tikvahpharma,data\raw\images\tikvahpharma\196337.jpg,none,other,0
+196338,tikvahpharma,data\raw\images\tikvahpharma\196338.jpg,none,other,0
+196339,tikvahpharma,data\raw\images\tikvahpharma\196339.jpg,refrigerator:0.34,other,1
+196340,tikvahpharma,data\raw\images\tikvahpharma\196340.jpg,laptop:0.71,other,1
+196343,tikvahpharma,data\raw\images\tikvahpharma\196343.jpg,none,other,0
+196344,tikvahpharma,data\raw\images\tikvahpharma\196344.jpg,"tv:0.70, microwave:0.44, clock:0.28",product_display,3
+196355,tikvahpharma,data\raw\images\tikvahpharma\196355.jpg,none,other,0
+196356,tikvahpharma,data\raw\images\tikvahpharma\196356.jpg,"tv:0.70, microwave:0.44, clock:0.28",product_display,3
+196367,tikvahpharma,data\raw\images\tikvahpharma\196367.jpg,none,other,0
+196368,tikvahpharma,data\raw\images\tikvahpharma\196368.jpg,none,other,0
+196369,tikvahpharma,data\raw\images\tikvahpharma\196369.jpg,refrigerator:0.34,other,1
+196370,tikvahpharma,data\raw\images\tikvahpharma\196370.jpg,laptop:0.71,other,1
