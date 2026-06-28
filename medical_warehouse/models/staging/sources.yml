@@ -23,3 +23,17 @@ sources:
             description: "Number of views"
           - name: forwards
             description: "Number of forwards"
+
+      - name: yolo_detections
+        description: "YOLOv8 object detection results for downloaded images"
+        columns:
+          - name: message_id
+            description: "Message ID matching telegram_messages"
+          - name: channel_name
+            description: "Channel the image came from"
+          - name: image_category
+            description: "Classified category: promotional, product_display, lifestyle, other"
+          - name: detected_objects
+            description: "Detected objects with confidence scores"
+          - name: object_count
+            description: "Number of objects detected"
